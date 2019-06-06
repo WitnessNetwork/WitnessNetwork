@@ -1,4 +1,24 @@
-# Cosmos Hub
+# WitnessNetwork
+
+Witness Network (WNET), a data wormhole between blockchains and the reality. The officail website is located at https://WitnessNetwork.com 
+
+## 1 Application Schemes
+
+(1). Smart contracts need data from outside of blockchain, such as traditional websites, cloud or software systems.  
+
+(2). Under the cross-chain scheme, one blockchain should know certain data from the other one's. 
+
+## 2 Creative Technologies
+
+(1).  To replace a single or centralized oracle with a decentralized and consensus-based blockchain network;
+
+(2). To ensure the trustworthiness of data sources by multi-nodes and multi-data sources;
+
+(3). The consensus mechanism  make sure the credibility of the on-chain data;
+
+(4). Data from traditional websites are stored on blockchain and never lost.
+
+(5). Based on cosmos, it is easy to develop on Witness Network, and the stored data could be used by many blockchains.
 
 ![banner](./docs/welcome-banner.jpg)
 
