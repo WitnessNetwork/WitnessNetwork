@@ -26,13 +26,13 @@ The officail website is located at https://WitnessNetwork.com
 
 **Note**: Requires [Go 1.12+](https://golang.org/dl/)
 
-**DISCLAIMER**: The current version of Gaia running the Cosmos Hub (v0.34.x) is
-__NOT__ maintained in this repository. Gaia and the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
+**DISCLAIMER**: The current version of Wnet running the Cosmos Hub (v0.34.x) is
+__NOT__ maintained in this repository. Wnet and the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
 have been recently split. All future versions of Gaia, including the next major
 upgrade, will be maintained in this repository. However, until the next major upgrade,
-Gaia should be fetched and built from the latest [released](https://github.com/cosmos/cosmos-sdk/releases)
+Wnet should be fetched and built from the latest [released](https://github.com/cosmos/cosmos-sdk/releases)
 __v0.34.x__ version in the SDK repository. In addition, this repository should be
-considered unstable until the next major release of Gaia. Please bear with us
+considered unstable until the next major release of Wnet. Please bear with us
 while we continue the migration process and update documentation.
 
 ### WitnessNetwork Hub Mainnet
