@@ -1,6 +1,8 @@
 # WitnessNetwork
 
-Witness Network (WNET), a data wormhole between blockchains and the reality. The officail website is located at https://WitnessNetwork.com 
+Witness Network (WNET), a data wormhole between blockchains and the reality. 
+WNET is one of Hubs of Cosmos, just like Cosmos Hub and IRISNET.
+The officail website is located at https://WitnessNetwork.com 
 
 ## 1 Application Schemes
 
@@ -20,8 +22,6 @@ Witness Network (WNET), a data wormhole between blockchains and the reality. The
 
 (5). Based on cosmos, it is easy to develop on Witness Network, and the stored data could be used by many blockchains.
 
-![banner](./docs/welcome-banner.jpg)
-
 [![CircleCI](https://circleci.com/gh/cosmos/gaia/tree/master.svg?style=shield)](https://circleci.com/gh/cosmos/gaia/tree/master)
 [![codecov](https://codecov.io/gh/cosmos/gaia/branch/master/graph/badge.svg)](https://codecov.io/gh/cosmos/gaia)
 [![Go Report Card](https://goreportcard.com/badge/github.com/cosmos/gaia)](https://goreportcard.com/report/github.com/cosmos/gaia)
@@ -30,7 +30,7 @@ Witness Network (WNET), a data wormhole between blockchains and the reality. The
 [![GolangCI](https://golangci.com/badges/github.com/cosmos/gaia.svg)](https://golangci.com/r/github.com/cosmos/gaia)
 [![riot.im](https://img.shields.io/badge/riot.im-JOIN%20CHAT-green.svg)](https://riot.im/app/#/room/#cosmos-sdk:matrix.org)
 
-This repository hosts `Gaia`, the first implementation of the Cosmos Hub.
+This repository hosts `WitnessNetwork`, based on the Cosmos Hub.
 
 **Note**: Requires [Go 1.12+](https://golang.org/dl/)
 
@@ -43,11 +43,11 @@ __v0.34.x__ version in the SDK repository. In addition, this repository should b
 considered unstable until the next major release of Gaia. Please bear with us
 while we continue the migration process and update documentation.
 
-## Cosmos Hub Mainnet
+## WitnessNetwork Hub Mainnet
 
-To run a full-node for the mainnet of the Cosmos Hub, first [install `gaia`](./docs/installation.md), then follow [the guide](./docs/join-mainnet.md).
+To run a full-node for the mainnet of the Cosmos Hub, first [install `wnet`](./docs/installation.md), then follow [the guide](./docs/join-mainnet.md).
 
-For status updates and genesis file, see the [launch repo](https://github.com/cosmos/launch).
+For status updates and genesis file, see the [launch repo](https://github.com/WitnessNetwork/launch).
 
 ## Quick Start
 
